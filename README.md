@@ -1,1 +1,1 @@
-Toggl and Google Calendar
+Synchronization between Toggl and Google Calendar
